@@ -1,0 +1,15 @@
+.sidebarComponent {
+  display: flex;
+  align-items: center;
+}
+
+.sidebarComponent h3 {
+  font-size: 17px;
+  font-weight: 500;
+  color: #388bfd;
+  line-height: 1.6em;
+}
+
+.sidebarComponent h3:hover {
+  text-decoration: underline;
+}
