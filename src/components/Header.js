@@ -28,7 +28,6 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header__left">
-        {/* <img src={link} alt="logo" /> */}
         <GitHubIcon fontSize="large" />
         <input type="text" placeholder="search or jump to..." />
         <h3>Pull Request</h3>
